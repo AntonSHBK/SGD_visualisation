@@ -1,0 +1,21 @@
+# Math
+matplotlib
+scipy
+scikit-learn
+numpy
+pandas
+# https://pypi.org/project/celluloid/
+celluloid
+
+# Jupyter
+notebook
+
+# PyTorch
+torch
+torchaudio
+torchvision
+torchtext
+tensorboard
+
+# For IDE if you need
+# spyder
