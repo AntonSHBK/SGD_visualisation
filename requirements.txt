@@ -16,6 +16,3 @@ torchaudio
 torchvision
 torchtext
 tensorboard
-
-# For IDE if you need
-# spyder
